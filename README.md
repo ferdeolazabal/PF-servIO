@@ -1,13 +1,17 @@
 # PG-servIO
 
+# Live Test
+
+[https://serv-io.surge.sh/](https://serv-io.surge.sh/)
+
 # Proyecto grupal
 
 ## Resumen del proyecto
-Basado en la necesidad de evolucionar la forma en que se realizan las operaciones de contratación de los usualmente llamados oficios, este proyecto se desarrollará una página web que funcione cómo vínculo entre especialistas de de diversas ramas de oficios como lo son albañilería, carpintería, plomería , entre otras y personas en general que requieran adquirir un servicio de calidad para satisfacer sus necesidades varias.
+Basado en la necesidad de evolucionar la forma en que se realizan las operaciones de contratación de los usualmente llamados oficios, este proyecto desarrollará una página web que funcione como vínculo entre especialistas de de diversas ramas de oficios como lo son albañilería, carpintería, plomería, entre otras y personas en general que requieran adquirir un servicio de calidad para satisfacer sus necesidades varias.
 Como vista general de implementación ***se solicitará KYC (Know Your Costumer) a ambas partes para proporcionar un registro de tipo ´verificado´*** posteriormente se tendrán dos interfaces distintas, una para que los profesionales observen las necesidades que tengan los clientes potenciales y otra para que los clientes con necesidades vean directamente a los profesionales y sus diversas áreas de especialidad.
 Como parte de desarrollo y cierre se elaborará una interfaz que permita pagar de forma segura al profesional una vez que este hay completado el compromiso laboral.
 
-A través de la plataforma *** Oficios te facilitamos la tarea de buscar profesionales en diferentes rubros, como ser plomeros, electricistas, personal doméstico, etc. A través de la aplicación móvil te brindamos las herramientas para contactarte con el profesional y coordinar el trabajo.
+A través de la plataforma te facilitamos la tarea de buscar profesionales en diferentes rubros, como ser plomeros, electricistas, personal doméstico, etc. A través de la aplicación móvil te brindamos las herramientas para contactarte con el profesional y coordinar el trabajo.
 Si eres profesional te brindamos la posibilidad de publicar tus servicios a través de nuestra plataforma para que posibles clientes puedan contratarte.
 
 ## Objetivos del Proyecto
